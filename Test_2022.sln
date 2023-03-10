@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.Splines.Examples.Editor", "Unity.Splines.Examples.Editor.csproj", "{FF2A37B8-5E86-712D-AB92-F871F2C52C77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.Splines.Examples", "Unity.Splines.Examples.csproj", "{E6629782-2516-0234-6BC3-589F4209FE81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF2A37B8-5E86-712D-AB92-F871F2C52C77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF2A37B8-5E86-712D-AB92-F871F2C52C77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF2A37B8-5E86-712D-AB92-F871F2C52C77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF2A37B8-5E86-712D-AB92-F871F2C52C77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6629782-2516-0234-6BC3-589F4209FE81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6629782-2516-0234-6BC3-589F4209FE81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6629782-2516-0234-6BC3-589F4209FE81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6629782-2516-0234-6BC3-589F4209FE81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
